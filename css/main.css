@@ -413,24 +413,23 @@ h5 {
 .project-img {
   transform: scale(1);
   width: 100%;
-  float: left;
   transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+  
   float: left;
   width: 33.33%;
   padding: 5px;
-  
 }
 
 .project-mask {
-  height: 100%;
-  /*position: absolute;*/
+  /*height: 100%;
+  position: absolute;
   transition: all 0.5s ease-in-out 0s;
   width: 100%;
   top: 0;
   left: 0;
   float: left;
   visibility: hidden;
-  overflow: hidden;
+  overflow: hidden;*/
 }
 
 .project-mask p {
