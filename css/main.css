@@ -423,11 +423,12 @@ h5 {
 
 .project-mask {
   height: 100%;
-  position: absolute;
+  /*position: absolute;*/
   transition: all 0.5s ease-in-out 0s;
   width: 100%;
   top: 0;
   left: 0;
+  float: left;
   visibility: hidden;
   overflow: hidden;
 }
