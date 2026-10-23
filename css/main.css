@@ -381,9 +381,6 @@ h5 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  float: left;
-  width: 33.33%;
-  padding: 5px;
 }
 
 .project-box {
@@ -415,8 +412,11 @@ h5 {
 
 .project-img {
   transform: scale(1);
-  width: 100%;
+  /* width: 100%; */
   transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
 }
 
 .project-mask {
