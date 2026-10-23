@@ -409,7 +409,6 @@ h5 {
   transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
   width: 100%;
   float: left;
-  padding: 5px;
 }
 
 .project-img {
