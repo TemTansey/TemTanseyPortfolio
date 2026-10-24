@@ -49,6 +49,12 @@ body {
   margin-bottom: 54px;
 }
 
+.h4 {
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: -0.15px;
+}
+
 .btn {
   display: inline-block;
   height: 52px;
