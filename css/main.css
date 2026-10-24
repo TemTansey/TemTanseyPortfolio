@@ -388,6 +388,8 @@ h5 {
   overflow: hidden;
   display: block;
   max-width: 510px;
+  padding: 5px;
+  float: left;
 }
 
 .project-box a {
