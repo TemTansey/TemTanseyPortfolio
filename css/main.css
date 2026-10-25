@@ -393,7 +393,7 @@ h5 {
   position: relative;
   overflow: hidden;
   display: block;
-  /*max-width: 510px; */
+  max-width: 250px;
   padding: 5px;
   width: 50%;
   float: left;
